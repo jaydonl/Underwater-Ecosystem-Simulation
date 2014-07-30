@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ updatePlantSpawnRate()
+comment0.text=\r\n\ Updates\ the\ plant's\ spawn\ rate\ if\ the\ button\ is\ pushed\r\n
+numComments=1

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=width
+comment0.target=ScoreBar(int)
+comment0.text=\r\n\ Construct\ a\ ScoreBar\ of\ the\ appropriate\ size.\r\n\ \r\n\ @param\ width\ \ \ \ \ width\ of\ the\ World\ where\ the\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ScoreBar\ will\ be\ placed\r\n
+comment1.params=alive\ maxAlive\ dead\ averageLifespan
+comment1.target=void\ update(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Updates\ this\ ScoreBar\ with\ game\ stats\ -\ hp,\ level\ and\ ammo\r\n\ \r\n\ @param\ alive\ \ \ \ \ current\ number\ of\ living\ Bugs\r\n\ @param\ maxAlive\ \ largest\ number\ of\ bugs\ alive\ during\ game\r\n\ @param\ dead\ \ \ \ \ \ number\ of\ dead\ bugs\r\n\ @param\ averageLifespan\ \ \ \r\n
+comment2.params=value\ digits
+comment2.target=java.lang.String\ zeroAdder(int,\ int)
+comment2.text=\r\n\ Method\ that\ aids\ in\ the\ appearance\ of\ the\ scoreboard\ by\ generating\r\n\ Strings\ that\ fill\ in\ zeros\ before\ the\ score.\ For\ example\:\r\n\ \r\n\ 27\ \=\=\=>\ to\ 5\ digits\ \=\=\=>\ 00027\r\n\ \r\n\ @param\ \ \ value\ \ \ integer\ value\ to\ use\ for\ score\ output\r\n\ @param\ \ \ digits\ \ \ number\ of\ zeros\ desired\ in\ the\ return\ String\r\n\ @return\ \ String\ \ built\ score,\ ready\ for\ display\r\n
+comment3.params=number
+comment3.target=int\ digitCounter(int)
+comment4.params=output
+comment4.target=void\ update(java.lang.String)
+comment4.text=\r\n\ Takes\ a\ String\ and\ displays\ it\ centered\ to\ the\ screen.\r\n\ \r\n\ @param\ output\ \ \ \ Text\ for\ displaying.\ \r\n
+numComments=5

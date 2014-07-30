@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=fisherman
+comment0.target=Spear(Fisherman)
+comment0.text=\r\n\ Constructor\ for\ a\ Spear\r\n\ @param\ fisherman\ Reference\ to\ the\ fisherman\ who\ shares\ the\ same\ boat\ as\ the\ Hunter\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Controls\ the\ Spears\ movements,\ kills\ organism\ if\ hit\ and\ check\ to\ see\ when\ it\ should\ remove\r\n\ itself\r\n
+comment2.params=
+comment2.target=void\ checkHitOrganism()
+comment2.text=\r\n\ Checks\ if\ the\ spear\ is\ in\ contact\ with\ an\ organims\ and\ kills\ it\r\n
+comment3.params=
+comment3.target=void\ remove()
+comment3.text=\r\n\ Mutator\ to\ set\ the\ boolean\ remove\ true\r\n
+comment4.params=
+comment4.target=void\ checkToRemove()
+comment4.text=\r\n\ Checks\ if\ the\ spear\ should\ be\ removed\r\n
+numComments=5

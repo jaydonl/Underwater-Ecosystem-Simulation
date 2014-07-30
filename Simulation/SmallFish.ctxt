@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=direction
+comment0.target=SmallFish(boolean)
+comment0.text=\r\n\ Creates\ a\ living\ level\ 1\ Small\ Fish\ facing\ a\ random\ direction,\ setting\ speed\ to\ 3\ and\ hunger\ to\ 50.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ If\ SmallFish\ is\ awake\ and\ alive,\ then\ SmallFish\ will\ swim\ around\ the\ world\ and\ eat\ Plants\ upon\ contact.\r\n\ When\ hunger\ reaches\ 0,\ SmallFish\ will\ level\ up\ and\ evolve.\r\n
+comment2.params=
+comment2.target=void\ checkImage()
+comment2.text=\r\n\ Checks\ to\ see\ if\ the\ image\ and\ the\ direction\ the\ fish\ is\ facing\ match.\ Also\ checks\ for\ the\ current\ level\ of\ the\ fish\ and\ increases\ size\ accordingly.\ \r\n
+comment3.params=
+comment3.target=void\ eatTarget()
+comment3.text=\r\n\ Eats\ Plants\ upon\ contact,\ removing\ the\ Plant\ from\ the\ world.\ \r\n
+comment4.params=
+comment4.target=greenfoot.Actor\ detectHook()
+comment4.text=\r\n\ Detects\ if\ Fish\ is\ touching\ a\ Hook,\ and\ returns\ the\ Hook\ object\r\n\ @return\ Actor\ Hook\ actor,\ if\ touching.\ Otherwise\ return\ null.\ \r\n
+comment5.params=
+comment5.target=boolean\ getHooked()
+comment5.text=\r\n\ Accessor\ to\ check\ if\ the\ SmallFish\ has\ been\ hooked.\r\n
+numComments=6

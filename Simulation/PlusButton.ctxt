@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PlusButton()
+comment0.text=\r\n\ Creates\ a\ plus\ button\ that\ will\ add\ to\ the\ value\ of\ the\ Spawn\ Rate,\ making\ plants\ spawn\ less\ frequently\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ If\ the\ user\ clicks\ the\ button,\ Plant\ spawn\ rate\ is\ updated.\r\n
+numComments=2

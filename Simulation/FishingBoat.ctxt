@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=speed
+comment0.target=FishingBoat(int)
+comment0.text=\r\n\ Constructor\ for\ a\ FishingBoat\r\n\ @param\ speed\ Speed\ of\ the\ boat\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Controls\ the\ boat's\ movements\r\n
+comment2.params=speed
+comment2.target=void\ setSpeed(int)
+comment2.text=\r\n\ Mutator\ that\ changes\ the\ speed\ of\ the\ Boat\r\n\ @param\ int\ Speed\ of\ the\ boat\r\n
+comment3.params=
+comment3.target=boolean\ checkIfBoatSank()
+comment3.text=\r\n\ Checks\ if\ the\ boat\ is\ sinked\r\n\ @Return\ boolean\ True\ if\ boat\ is\ sinked\r\n
+comment4.params=
+comment4.target=void\ sinkBoat()
+comment4.text=\r\n\ Mutator\ to\ make\ the\ boat\ sink\r\n
+numComments=5

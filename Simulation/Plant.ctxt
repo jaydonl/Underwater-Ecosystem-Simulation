@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=direction
+comment0.target=Plant(boolean)
+comment0.text=\r\n\ Creates\ a\ Shark\ facing\ a\ random\ direction.\r\n\ @param\ direction\ Checks\ whether\ or\ not\ to\ spawn\ the\ plant\ facing\ right\ or\ left\r\n
+numComments=1

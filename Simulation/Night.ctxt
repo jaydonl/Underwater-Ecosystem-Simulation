@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Night()
+comment0.text=\r\n\ Constructs\ black\ screen,\ with\ it\ being\ completely\ transparent.\r\n
+comment1.params=change
+comment1.target=void\ changeTransparency(int)
+comment1.text=\r\n\ Changes\ the\ actor's\ transparency\ and\ updates\ it.\r\n\ \r\n\ @param\ change\ How\ much\ the\ transparency\ will\ change\ by.\r\n
+comment2.params=
+comment2.target=int\ getTransparency()
+comment2.text=\r\n\ Gets\ the\ transparency\ level.\r\n\ \r\n\ @return\ int\ The\ current\ transparency\ level\ of\ the\ actor.\r\n
+numComments=3

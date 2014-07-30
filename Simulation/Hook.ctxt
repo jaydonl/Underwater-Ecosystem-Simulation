@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ checkFish()
+comment0.text=\r\n\ Checks\ if\ the\ Hook\ is\ touching\ a\ SmallFish\r\n\ @return\ boolean\ True\ if\ the\ hook\ is\ touching\ a\ fish\r\n
+comment1.params=
+comment1.target=greenfoot.Actor\ returnFish()
+comment1.text=\r\n\ Returns\ the\ reference\ of\ the\ fish\ or\ nothing\r\n\ @return\ Actor\ Returns\ reference\ of\ the\ fish\ if\ a\ fish\ is\ touching\ the\ hook\r\n
+numComments=2

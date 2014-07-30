@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=direction
+comment0.target=MedFish(boolean)
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ MedFish\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ If\ MedFish\ is\ alive\ and\ awake,\ MedFish\ will\ swim\ around\ the\ world,\ eating\ SmallFish\ upon\ contact.\r\n\ Once\ hunger\ reaches\ 0,\ MedFish\ will\ level\ up\ and\ evolve.\r\n
+comment2.params=
+comment2.target=void\ checkImage()
+comment2.text=\r\n\ Checks\ to\ see\ if\ the\ image\ and\ the\ direction\ the\ fish\ is\ facing\ match.\ Also\ checks\ for\ the\ current\ level\ of\ the\ fish\ and\ increases\ size\ accordingly.\ \r\n
+comment3.params=
+comment3.target=void\ eatTarget()
+comment3.text=\r\n\ Eats\ SmallFish\ upon\ contact,\ removing\ the\ SmallFish\ from\ the\ world.\ \r\n
+numComments=4

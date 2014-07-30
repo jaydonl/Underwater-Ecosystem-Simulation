@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=speed
+comment0.target=Hunter(int)
+comment0.text=\r\n\ Constructor\ for\ a\ Hunter\r\n\ @param\ speed\ Speed\ of\ the\ Hunter\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Move\ the\ hunter\r\n
+comment2.params=speed
+comment2.target=void\ setSpeed(int)
+comment2.text=\r\n\ Set\ the\ speed\ of\ theHhunter\r\n\ @param\ speed\ Speed\ of\ the\ Hunter\r\n
+comment3.params=
+comment3.target=void\ checkAndRemove()
+comment3.text=\r\n\ Checks\ and\ removes\ the\ hunter\ when\ it's\ at\ the\ edge\ of\ the\ world\r\n
+numComments=4

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=direction
+comment0.target=Shark(boolean)
+comment0.text=\r\n\ Creates\ a\ living\ Shark\ facing\ a\ random\ direction,\ setting\ speed\ to\ 5\ and\ hunger\ to\ 50.\ \r\n\ @param\ direction\ Checks\ direction\ Shark\ is\ facing\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ If\ Shark\ is\ alive\ and\ awake,\ then\ Shark\ will\ swim\ around\ the\ world,\ attacking\ boats\ and\ eating\ targets\ if\ it\ is\ able\ to.\r\n
+comment2.params=
+comment2.target=void\ checkImage()
+comment2.text=\r\n\ Checks\ to\ see\ if\ the\ image\ and\ the\ direction\ the\ fish\ is\ facing\ match.\r\n
+comment3.params=fishingBoatX\ fishingBoatY
+comment3.target=void\ jump(int,\ int)
+comment3.text=\r\n\ Jumps\ out\ of\ the\ water\ to\ attack\ a\ FishingBoat,\ sinking\ the\ boat\ in\ the\ process.\ Will\ fall\ back\ into\ the\ water\ after\ the\ boat\ has\ been\ sunk.\r\n\ @param\ fishingBoatX\ X\ coordinate\ of\ the\ FishingBoat\ target.\r\n\ @param\ fishingBoatY\ Y\ coordinate\ of\ the\ FishingBoatTarget\r\n
+comment4.params=
+comment4.target=void\ checkInWater()
+comment4.text=\r\n\ Checks\ if\ the\ shark\ is\ currently\ in\ the\ water,\ or\ above\ the\ water.\r\n
+comment5.params=
+comment5.target=void\ eatTarget()
+comment5.text=\r\n\ Eats\ Medium\ Fish\ or\ Divers\ upon\ contact,\ removing\ Med\ Fish\ from\ the\ world\ and\ causing\ Divers\ to\ sink.\r\n
+comment6.params=
+comment6.target=void\ closestTarget()
+comment6.text=\r\n\ Constantly\ checks\ for\ the\ closest\ FishingBoat\ target,\ credit\ to\ Mr.\ Cohen\ for\ the\ code.\r\n
+comment7.params=boatX
+comment7.target=void\ checkAttackReady(int)
+comment7.text=\r\n\ Checks\ to\ see\ if\ proper\ requirements\ are\ met\ before\ jumping\ to\ attack\ the\ Fishing\ Boat.\ \r\n\ Ex.\ checking\ of\ the\ boat\ has\ sank\ yet,\ or\ if\ the\ shark\ is\ in\ proper\ position.\r\n\ @param\ boatX\ X\ coordinate\ of\ the\ FishingBoat\ target.\r\n
+numComments=8
